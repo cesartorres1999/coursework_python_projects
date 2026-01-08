@@ -1,4 +1,4 @@
-Python Projects:
+Coursework Python Projects:
 
 Cafe Receipt – Built a Python program to simulate digital cafe transactions with automatic totals and tax
 calculation.
